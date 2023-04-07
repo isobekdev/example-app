@@ -1,4 +1,4 @@
 @extends('hello')
 @section('content')
-    <h1>About Us</h1>
+Sen mecnsoevbsebvksbdvkbsdkvbskdjbvkbsdvbksdbvkbsdkvbdksbvk
 @endsection
